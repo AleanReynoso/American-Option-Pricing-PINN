@@ -89,22 +89,6 @@ Key observations:
 
 ---
 
-## Repository Structure
-
-```text
-American-Option-Pricing-PINN
-│
-├── figures
-├── data
-├── notebooks
-├── report
-├── src
-├── README.md
-└── requirements.txt
-```
-
----
-
 ## Future Work
 
 * Higher accuracy free-boundary estimation.
