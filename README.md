@@ -24,12 +24,12 @@ The neural network is trained to satisfy:
 
 ### Black-Scholes PDE
 
-[
+```math
 \frac{\partial V}{\partial t}
-+\frac{1}{2}\sigma^2S^2\frac{\partial^2V}{\partial S^2}
++\frac{1}{2}\sigma^2 S^2 \frac{\partial^2 V}{\partial S^2}
 +rS\frac{\partial V}{\partial S}
 -rV=0
-]
+```
 
 while enforcing:
 
